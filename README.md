@@ -5,4 +5,3 @@ askhsh4
 Η δραστηριότητα απευθύνεται σε μαθητές της Α’ Γυμνασίου. 
 Δημιουργήθηκε από την Αντωνία Καστρινάκη και μπορείτε να βρείτε τη δραστηριότητα μέσω του GitHub στον παρακάτω υπερσύνδεσμο: 
 https://htmlpreview.github.io/?https://github.com/antoniakastrinaki/askhsh4/blob/main/view-source_https___learningapps.org_watch_v%3Dpzvum330521.html
-Ο αρχικός υπερσύνδεσμος βρίσκεται: https://learningapps.org/watch?v=pzvum330521
